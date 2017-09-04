@@ -3,7 +3,7 @@
 # My First Commit Story
 Once upon a time there was a new developer. They wanted to learn how to use github. They wrote a story about how to make changes to code. And then share with github.
 
-# Changes I want to Save
+# Changes I Want to Save
 Words.
 
 # Project Summary
