@@ -1,0 +1,50 @@
+* {
+    margin:0;
+}
+
+.header {
+    position: relative;
+    top: 0px;
+    height: 100px;
+    width: 100%;
+    background: #323939;
+    /* margin:auto; */
+}
+
+
+
+
+.left-box {
+    /* position: absolute; */
+    height: 500px;
+    width: 10%;
+    background: lightgray;
+    float:left;
+}
+
+.mid-section {
+    /* position: absolute; */
+    width: 80%;
+    height: 450px;
+    /* margin: auto; */
+    background: #EDEBEB;
+    float:left;
+}
+
+
+.right-box {
+    /* position: absolute; */
+    height: 500px;
+    width: 10%;
+    background: lightgray;
+    float:left;
+}
+
+.footer {
+    position: relative;
+    top:450px;
+    left:10%;
+    width:80%;
+    height: 50px;
+    background: black;
+}
